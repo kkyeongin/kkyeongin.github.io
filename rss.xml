@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[In Progress]]></title><description><![CDATA[통찰은 몇 가지 단서만으로는 얻어지지 않는다]]></description><link>http://kkyeongin.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 06 Nov 2019 06:07:16 GMT</lastBuildDate><item><title><![CDATA[Quick Start]]></title><description><![CDATA[Getting Started 😎 1. Create a Gatsby site. If you are not using , following Gatsby Getting Started 2. Start developing. 3. Add your content…]]></description><link>http://kkyeongin.github.io/Hi-Blog/quick_start/</link><guid isPermaLink="false">http://kkyeongin.github.io/Hi-Blog/quick_start/</guid><pubDate>Fri, 31 May 2019 16:21:13 GMT</pubDate><content:encoded>&lt;h1 id=&quot;getting-started-&quot;&gt;&lt;a href=&quot;#getting-started-&quot; aria-label=&quot;getting started  permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Getting Started 😎&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[In Progress]]></title><description><![CDATA[통찰은 몇 가지 단서만으로는 얻어지지 않는다]]></description><link>http://kkyeongin.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 06 Nov 2019 06:22:15 GMT</lastBuildDate><item><title><![CDATA[Quick Start]]></title><description><![CDATA[Getting Started 😎 1. Create a Gatsby site. If you are not using , following Gatsby Getting Started 2. Start developing. 3. Add your content…]]></description><link>http://kkyeongin.github.io/Hi-Blog/quick_start/</link><guid isPermaLink="false">http://kkyeongin.github.io/Hi-Blog/quick_start/</guid><pubDate>Fri, 31 May 2019 16:21:13 GMT</pubDate><content:encoded>&lt;h1 id=&quot;getting-started-&quot;&gt;&lt;a href=&quot;#getting-started-&quot; aria-label=&quot;getting started  permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Getting Started 😎&lt;/h1&gt;
 &lt;h2 id=&quot;1-create-a-gatsby-site&quot;&gt;&lt;a href=&quot;#1-create-a-gatsby-site&quot; aria-label=&quot;1 create a gatsby site permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1. Create a Gatsby site.&lt;/h2&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;# create a new Gatsby site using the blog starter
 $ npx gatsby new my-blog-starter https://github.com/JaeYeopHan/gatsby-starter-bee&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
@@ -705,7 +705,7 @@ Singleton&lt;span class=&quot;token operator&quot;&gt;*&lt;/span&gt; Singleton&l
 &lt;h2 id=&quot;블로그-만들기1&quot;&gt;&lt;a href=&quot;#%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B01&quot; aria-label=&quot;블로그 만들기1 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;블로그 만들기(1)&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Goal&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Goal&lt;/b&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Why Gatsby?&lt;/li&gt;
 &lt;li&gt;Setup Git page&lt;/li&gt;
@@ -743,9 +743,9 @@ Jekyll 은 Ruby on Rails 기반이며, Hexo는 Node.js기반이여서 나는 고
 &lt;p&gt;Docker를 사용한 이유는 AWS를 EC2서버를 사용하다 바꾸는 경우가 가끔 있었고 다양한 환경의 서버들을 다루기 꺼려져 Docker를 사용하였습니다. Docker의 경우 설치하고 한번 사용한 이미지 그대로 가져와서 사용하면 되서 환경에 영향을 받지 않기 때문이다.
 삽질을 줄일 수 있다는 점이나 안정성에서 만족하며 사용하고 있다.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;# Docker CE (Community Edition) install
-sudo apt update
-sudo apt install apt-transport-https ca-certificates curl software-properties-common&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+$ sudo apt update
+$ sudo apt install apt-transport-https ca-certificates curl software-properties-common&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;$ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 
 OK&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;ul&gt;
@@ -758,21 +758,21 @@ OK&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://docs.docker.com/v17.09/engine/installation/linux/docker-ce/ubuntu/#set-up-the-repository&quot;&gt;다른 repositories에 관한 정보&lt;/a&gt; 를 확인한 수 받으시면 됩니다.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;sudo apt-get update
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;$ sudo apt-get update
 
-sudo apt-get install docker-ce   # Docker CE (Community Edition)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+$ sudo apt-get install docker-ce   # Docker CE (Community Edition)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;확인을 위해&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;docker --version&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;$ docker --version&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h3 id=&quot;3-installing-jenkins-with-docker-and-jenkins-run&quot;&gt;&lt;a href=&quot;#3-installing-jenkins-with-docker-and-jenkins-run&quot; aria-label=&quot;3 installing jenkins with docker and jenkins run permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;3. Installing Jenkins with Docker and Jenkins Run&lt;/h3&gt;
 &lt;p&gt;도커를 깔았으면 Docker hub에 있는 Jenkins image를 받는다.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://subicura.com/assets/article_images/2017-01-19-docker-guide-for-beginners-1/image-url.png&quot; alt=&quot;Docker image url&quot;&gt;&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;docker pull jenkins/jenkins&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;$ docker pull jenkins/jenkins&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;b&gt;주의할점&lt;/b&gt;은 jenkinsci 와 jenkins:latest등 다른 이미지들은 deprecated 됐다. 삽질하지 말고 jenkins/jenkins를 받자.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;docker pull jenkins/jenkins&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;$ docker pull jenkins/jenkins&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;jenkins을 실행시키려면 Docker run!&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;docker run -it\
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;$ docker run -it\
 -u root \
 -p [setting-port]:8080 -p setting-port]:50000 \
 -v /var/run/docker.sock:/var/run/docker.sock \
@@ -781,43 +781,43 @@ sudo apt-get install docker-ce   # Docker CE (Community Edition)&lt;/code&gt;&lt
 jenkins/jenkins&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h3 id=&quot;4-make-a-docker-image&quot;&gt;&lt;a href=&quot;#4-make-a-docker-image&quot; aria-label=&quot;4 make a docker image permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;4. Make a Docker image&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;https://docs.docker.com/v17.09/engine/userguide/storagedriver/images/container-layers.jpg&quot; alt=&quot;create docker image&quot;&gt;&lt;/p&gt;
-&lt;p&gt;도커 이미지는 컨테이너를 실행하기 위한 모든 정보를 가지고 있기 때문에 보통 용량이 수백메가MB에 이릅니다. 처음 이미지를 다운받을 땐 크게 부담이 안되지만 기존 이미지에 파일 하나 추가했다고 수백메가를 다시 다운받는다면 매우 비효율적일 수 밖에 없습니다.&lt;/p&gt;
-&lt;p&gt;도커는 이런 문제를 해결하기 위해 레이어(layer)라는 개념을 사용하고 유니온 파일 시스템을 이용하여 여러개의 레이어를 하나의 파일시스템으로 사용할 수 있게 해줍니다.
+&lt;p&gt;도커 이미지는 컨테이너를 실행하기 위한 모든 정보를 가지고 있기 때문에 보통 용량이 수백메가MB에 이릅니다. 처음 이미지를 다운받을 땐 크게 부담이 안되지만 기존 이미지에 파일 하나 추가했다고 수백메가를 다시 다운받는다면 매우 비효율적일 수 밖에 없다.&lt;/p&gt;
+&lt;p&gt;도커는 이런 문제를 해결하기 위해 레이어(layer)라는 개념을 사용하고 유니온 파일 시스템을 이용하여 여러개의 레이어를 하나의 파일시스템으로 사용할 수 있게 했다.
 &lt;code class=&quot;language-text&quot;&gt;&lt;/code&gt;&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;FROM ubuntu:16.04
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;vim&quot;&gt;&lt;pre class=&quot;language-vim&quot;&gt;&lt;code class=&quot;language-vim&quot;&gt;FROM ubuntu&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;16.04&lt;/span&gt;
 USER root
 
-# Setup node.js build env
-RUN apt-get update
-RUN apt-get install -y curl
-RUN curl -sL https://deb.nodesource.com/setup_8.x | bash -
-RUN apt-get install -y nodejs build-essential git python
-RUN node -v &amp;amp;&amp;amp; npm -v
-RUN npm install -g yarn
+# Setup node&lt;span class=&quot;token operator&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token builtin&quot;&gt;js&lt;/span&gt; build env
+RUN apt&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;get &lt;span class=&quot;token keyword&quot;&gt;update&lt;/span&gt;
+RUN apt&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;get install &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;y&lt;/span&gt; curl
+RUN curl &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;sL https&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;deb&lt;span class=&quot;token operator&quot;&gt;.&lt;/span&gt;nodesource&lt;span class=&quot;token operator&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token builtin&quot;&gt;com&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;setup_8&lt;span class=&quot;token operator&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;x&lt;/span&gt; | bash &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;
+RUN apt&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;get install &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;y&lt;/span&gt; nodejs build&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;essential git &lt;span class=&quot;token keyword&quot;&gt;python&lt;/span&gt;
+RUN node &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;v &lt;span class=&quot;token operator&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; npm &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;v
+RUN npm install &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;g yarn
 
-# Use --build-arg ~/.ssh/id_rsa
+# Use &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;build&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;arg ~&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;.&lt;/span&gt;ssh&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;id_rsa
 ARG ssh_prv_key
 ARG ssh_pub_key
 
 # Authorize SSH Host
-RUN mkdir -p /root/.ssh &amp;amp;&amp;amp; \
-    chmod 0700 /root/.ssh &amp;amp;&amp;amp; \
-    ssh-keyscan github.com &amp;gt; /root/.ssh/known_hosts
+RUN mkdir &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;p&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;root&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;.&lt;/span&gt;ssh &lt;span class=&quot;token operator&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; \
+    chmod &lt;span class=&quot;token number&quot;&gt;0700&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;root&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;.&lt;/span&gt;ssh &lt;span class=&quot;token operator&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; \
+    ssh&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;keyscan github&lt;span class=&quot;token operator&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token builtin&quot;&gt;com&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;root&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;.&lt;/span&gt;ssh&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;known_hosts
 
-# Add the keys and set permissions
-RUN echo &amp;quot;$ssh_prv_key&amp;quot; &amp;gt; /root/.ssh/id_rsa &amp;amp;&amp;amp; \
-    echo &amp;quot;$ssh_pub_key&amp;quot; &amp;gt; /root/.ssh/id_rsa.pub &amp;amp;&amp;amp; \
-    chmod 600 /root/.ssh/id_rsa &amp;amp;&amp;amp; \
-    chmod 600 /root/.ssh/id_rsa.pub
+# Add the keys and &lt;span class=&quot;token keyword&quot;&gt;set&lt;/span&gt; permissions
+RUN echo &lt;span class=&quot;token string&quot;&gt;&quot;$ssh_prv_key&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;root&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;.&lt;/span&gt;ssh&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;id_rsa &lt;span class=&quot;token operator&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; \
+    echo &lt;span class=&quot;token string&quot;&gt;&quot;$ssh_pub_key&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;root&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;.&lt;/span&gt;ssh&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;id_rsa&lt;span class=&quot;token operator&quot;&gt;.&lt;/span&gt;pub &lt;span class=&quot;token operator&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; \
+    chmod &lt;span class=&quot;token number&quot;&gt;600&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;root&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;.&lt;/span&gt;ssh&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;id_rsa &lt;span class=&quot;token operator&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; \
+    chmod &lt;span class=&quot;token number&quot;&gt;600&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;root&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;.&lt;/span&gt;ssh&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;id_rsa&lt;span class=&quot;token operator&quot;&gt;.&lt;/span&gt;pub
 
 # git config
-RUN git config --global user.email &amp;quot;kkyeongin@gmail.com&amp;quot;
+RUN git config &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;global user&lt;span class=&quot;token operator&quot;&gt;.&lt;/span&gt;email &lt;span class=&quot;token string&quot;&gt;&quot;kkyeongin@gmail.com&quot;&lt;/span&gt;
 
-USER ubuntu:16.04&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+USER ubuntu&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;16.04&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Jenkins에서 Docker를 띄워 빌드를 진행할 예정이여서 추가적으로 Docker이미지를 만들었다.
 기본으로 ubuntu:16.04를 받아서 추가적으로 필요한 Node.js 프로젝트 빌드 환경과 GitHub Publishing 레파지토리에 Deploy할때 쓸 ssh key도 등록 하였다.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;docker build \
--t [Dockr image name:tag] \
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;$ docker build \
+-t [dockr image name:tag] \
 --build-arg ssh_prv_key=[private ssh key pwd]\
 --build-arg ssh_pub_key=[public ssh key pwd]\
 [Dockerfile pwd]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
