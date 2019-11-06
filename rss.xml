@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[In Progress]]></title><description><![CDATA[통찰은 몇 가지 단서만으로는 얻어지지 않는다]]></description><link>http://kkyeongin.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 06 Nov 2019 06:22:15 GMT</lastBuildDate><item><title><![CDATA[Quick Start]]></title><description><![CDATA[Getting Started 😎 1. Create a Gatsby site. If you are not using , following Gatsby Getting Started 2. Start developing. 3. Add your content…]]></description><link>http://kkyeongin.github.io/Hi-Blog/quick_start/</link><guid isPermaLink="false">http://kkyeongin.github.io/Hi-Blog/quick_start/</guid><pubDate>Fri, 31 May 2019 16:21:13 GMT</pubDate><content:encoded>&lt;h1 id=&quot;getting-started-&quot;&gt;&lt;a href=&quot;#getting-started-&quot; aria-label=&quot;getting started  permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Getting Started 😎&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[In Progress]]></title><description><![CDATA[통찰은 몇 가지 단서만으로는 얻어지지 않는다]]></description><link>http://kkyeongin.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 06 Nov 2019 10:02:12 GMT</lastBuildDate><item><title><![CDATA[Quick Start]]></title><description><![CDATA[Getting Started 😎 1. Create a Gatsby site. If you are not using , following Gatsby Getting Started 2. Start developing. 3. Add your content…]]></description><link>http://kkyeongin.github.io/Hi-Blog/quick_start/</link><guid isPermaLink="false">http://kkyeongin.github.io/Hi-Blog/quick_start/</guid><pubDate>Fri, 31 May 2019 16:21:13 GMT</pubDate><content:encoded>&lt;h1 id=&quot;getting-started-&quot;&gt;&lt;a href=&quot;#getting-started-&quot; aria-label=&quot;getting started  permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Getting Started 😎&lt;/h1&gt;
 &lt;h2 id=&quot;1-create-a-gatsby-site&quot;&gt;&lt;a href=&quot;#1-create-a-gatsby-site&quot; aria-label=&quot;1 create a gatsby site permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1. Create a Gatsby site.&lt;/h2&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;# create a new Gatsby site using the blog starter
 $ npx gatsby new my-blog-starter https://github.com/JaeYeopHan/gatsby-starter-bee&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
@@ -665,7 +665,7 @@ Singleton&lt;span class=&quot;token operator&quot;&gt;*&lt;/span&gt; Singleton&l
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;cpp&quot;&gt;&lt;pre class=&quot;language-cpp&quot;&gt;&lt;code class=&quot;language-cpp&quot;&gt;define score &lt;span class=&quot;token number&quot;&gt;23&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;ol start=&quot;2&quot;&gt;
 &lt;li&gt;special form&lt;/li&gt;
-&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Git Page+Docker+Jenkins(2)]]></title><description><![CDATA[why docker 블로그 만들기(2) Goal Setup Jenkins for GitHub repository Configure to build automatically when it is pushed to GitHub Review 참고 make…]]></description><link>http://kkyeongin.github.io/DevOps/git-page-+-gastby-+-jenkins를-활용하여-blog-만들기 copy/</link><guid isPermaLink="false">http://kkyeongin.github.io/DevOps/git-page-+-gastby-+-jenkins를-활용하여-blog-만들기 copy/</guid><pubDate>Wed, 13 Feb 2019 19:11:06 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://www.docker.com/sites/default/files/d8/2018-11/docker-containerized-and-vm-transparent-bg.png&quot; alt=&quot;why docker&quot;&gt;&lt;/p&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[Git Page+Docker+Jenkins(2)]]></title><description><![CDATA[why docker 블로그 만들기(2) Goal Setup Jenkins for GitHub repository Configure to build automatically when it is pushed to GitHub Make Jenkinsfile…]]></description><link>http://kkyeongin.github.io/DevOps/git-page-+-gastby-+-jenkins를-활용하여-blog-만들기_2/</link><guid isPermaLink="false">http://kkyeongin.github.io/DevOps/git-page-+-gastby-+-jenkins를-활용하여-blog-만들기_2/</guid><pubDate>Wed, 13 Feb 2019 19:11:06 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;https://www.docker.com/sites/default/files/d8/2018-11/docker-containerized-and-vm-transparent-bg.png&quot; alt=&quot;why docker&quot;&gt;&lt;/p&gt;
 &lt;h2 id=&quot;블로그-만들기2&quot;&gt;&lt;a href=&quot;#%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B02&quot; aria-label=&quot;블로그 만들기2 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;블로그 만들기(2)&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -673,35 +673,128 @@ Singleton&lt;span class=&quot;token operator&quot;&gt;*&lt;/span&gt; Singleton&l
 &lt;ul&gt;
 &lt;li&gt;Setup Jenkins for GitHub repository&lt;/li&gt;
 &lt;li&gt;Configure to build automatically when it is pushed to GitHub&lt;/li&gt;
+&lt;li&gt;Make Jenkinsfile&lt;/li&gt;
 &lt;li&gt;Review&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&quot;참고&quot;&gt;&lt;a href=&quot;#%EC%B0%B8%EA%B3%A0&quot; aria-label=&quot;참고 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;참고&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://jootc.com/p/201905122827&quot;&gt;make git ssh key&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Git Page+Docker+Jenkins]]></title><description><![CDATA[블로그 만들기(1) Goal Why Gatsby? Setup Git page Install Docker Installing Jenkins with Docker and Jenkins Run Make a Docker image Why Gatsby…]]></description><link>http://kkyeongin.github.io/DevOps/git-page-+-gastby-+-jenkins를-활용하여-blog-만들기/</link><guid isPermaLink="false">http://kkyeongin.github.io/DevOps/git-page-+-gastby-+-jenkins를-활용하여-blog-만들기/</guid><pubDate>Tue, 12 Feb 2019 19:11:05 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;h3 id=&quot;1-setup-jenkins-for-github-repository&quot;&gt;&lt;a href=&quot;#1-setup-jenkins-for-github-repository&quot; aria-label=&quot;1 setup jenkins for github repository permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1. Setup Jenkins for GitHub repository&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://jenkins.io/doc/book/resources/tutorials/setup-jenkins-01-unlock-jenkins-page.jpg&quot;&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;jenkins의 기본적인 것을 세팅한 후, jenkins plugin에서 jenkins blue ocean plugin을 전부 설치한다.&lt;/li&gt;
+&lt;li&gt;jenkins &gt; 새로운 item을 만들어 Pipe line을 선택한다.&lt;/li&gt;
+&lt;li&gt;SCM을 git으로 설정 후 github계정을 연결시켜 둔다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&quot;https://t1.daumcdn.net/cfile/tistory/9974A8485BFB4AD92C&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
     &gt;
       &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 81.73076923076923%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAe/mig//xAAWEAADAAAAAAAAAAAAAAAAAAAAASD/2gAIAQEAAQUCFP8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFhAAAwAAAAAAAAAAAAAAAAAAACAh/9oACAEBAAY/AiL/AP/EABkQAAIDAQAAAAAAAAAAAAAAAAEQABEhYf/aAAgBAQABPyGU3pgr/9oADAMBAAIAAwAAABAkD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAQEAAgMBAAAAAAAAAAAAAAERACEQMUFR/9oACAEBAAE/EJ21y4NIhn0wyhlLpN+nH//Z&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 64.57925636007828%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABYlAAAWJQFJUiTwAAABaklEQVQ4y42S3VKDMBCF+/7jk3jpc3inM9UbL6xtgUIgIRB+AuuenSbSWqzMnAmE3S+7J7shftq2pd1uR3meU1mWpEol70VRUJIksqd1RVX1I621rMid55mmaaJpnmgD4DiOtN/vBRASsAd572kYBur7Pmpgtc5R13USs3wiEIHWWjLGUNM0VNc1uXMSgEsh3iLGNvKNB1VCEYjEWAEHAQg49rMsozRN43o4HGQtSs3/+wi8qHAJDFVhH1UCBE9Pp5PYAnu+GGq5Qn9ueRUYVpiN1iFYsVyPxyN9vG3J1iZ6eBeIxOAnqgstF/yec5XZ6wtVhSI/eab9A4hWoQCGp1A4IOEDTG05drjvIQRImEv4dj06I3/jpt1fl9J1jn2qJUEpJfMI3zDE1x3YphV5v+Kh40BtLN9eEkFhhH4N9sAet06ANy9FTpm9tKAqI/BQzZrC/5vAyhp6eHyi5/dPSnlYx7G/SFzTLeA30GfxlmLJXIMAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Alt text&quot;
-        title=&quot;Alt text&quot;
-        src=&quot;/static/31eda11e55a250b570898220b2b294e3/c739e/gatsby_how_to_work.jpg&quot;
-        srcset=&quot;/static/31eda11e55a250b570898220b2b294e3/8ee9c/gatsby_how_to_work.jpg 148w,
-/static/31eda11e55a250b570898220b2b294e3/ebbe7/gatsby_how_to_work.jpg 295w,
-/static/31eda11e55a250b570898220b2b294e3/c739e/gatsby_how_to_work.jpg 590w,
-/static/31eda11e55a250b570898220b2b294e3/5413e/gatsby_how_to_work.jpg 885w,
-/static/31eda11e55a250b570898220b2b294e3/33ef5/gatsby_how_to_work.jpg 936w&quot;
+        alt=&quot;pipline&quot;
+        title=&quot;pipline&quot;
+        src=&quot;/static/ac9dff1f2a0fae93fd14d49cea578e18/b9e4f/pipline.png&quot;
+        srcset=&quot;/static/ac9dff1f2a0fae93fd14d49cea578e18/cf440/pipline.png 148w,
+/static/ac9dff1f2a0fae93fd14d49cea578e18/d2d38/pipline.png 295w,
+/static/ac9dff1f2a0fae93fd14d49cea578e18/b9e4f/pipline.png 590w,
+/static/ac9dff1f2a0fae93fd14d49cea578e18/f9b6a/pipline.png 885w,
+/static/ac9dff1f2a0fae93fd14d49cea578e18/2d849/pipline.png 1180w,
+/static/ac9dff1f2a0fae93fd14d49cea578e18/8d098/pipline.png 2044w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
         loading=&quot;lazy&quot;
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;SCM을 git으로 설정 후 github계정을 연결시켜 둔다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&quot;2-make-jenkinsfile&quot;&gt;&lt;a href=&quot;#2-make-jenkinsfile&quot; aria-label=&quot;2 make jenkinsfile permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2. Make Jenkinsfile&lt;/h3&gt;
+&lt;p&gt;이제 젠킨스 파일만 만들면 된다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;pipeline {
+    agent {
+        docker {
+            image &amp;#39;ubuntu:dockerfile&amp;#39;
+            args &amp;#39;-p 3000:3000&amp;#39;
+        }
+    }
+    environment {
+        CI = &amp;#39;true&amp;#39; 
+    }
+    stages {
+        stage(&amp;#39;Build&amp;#39;) {
+            steps {
+                sh &amp;#39;python --version&amp;#39;
+                sh &amp;#39;yarn global add gatsby-cli&amp;#39;
+                sh &amp;#39;yarn install&amp;#39;
+            }
+        }
+        stage(&amp;#39;Deploy&amp;#39;) { 
+            steps {
+                sh &amp;#39;yarn run deploy&amp;#39; 
+            }
+        }
+    }
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;docker image &lt;code class=&quot;language-text&quot;&gt;ubuntu:dockerfile&lt;/code&gt; 은 이전편에서 만들었던 docker image 이다.
+없다면 docker hub에서 찾아올 것 이다.&lt;/p&gt;
+&lt;h3 id=&quot;review&quot;&gt;&lt;a href=&quot;#review&quot; aria-label=&quot;review permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Review&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 53.09803921568628%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABYlAAAWJQFJUiTwAAABxklEQVQoz53RXYsSURgH8PNF2pt0Z8ZpcDcn2yh7cV0Sr6s7UUFaVw1zB/oSS2walTgzqBjpF3B7oU8g3uVuXgdCN3tTi86r/84c26EgarcHfjyc87xw4JAn/Q2UOgK2WxdRbPPMdivA7LQ5POpKKHdEFNpBPGxyKOg87ff6ODbnqb65zPoKrSDI28PnGIxrOBjX8f7oJT58buDgsM7O745e4ONEpZq09ore15bG9Z9qzODTM38Hwd/CBb6dGHBswDJtnCWIZZvwWUumZTCGaWBuzGieYU6ZpuHXTlmUbRts3nHtf7zwP4I83d9Dt/ua6qLX66HX77OsaRqlM7qus7Oqqr5lXUNT1dBoUo0GptMpyMqFFSQSCcTjcdyI3cSafA3S+lUIUgTcpXXwYhiSJCEUCkEQBB/HcQzv4XkEAgEMh0OQ1eAqUqkUkskky5tbd3Fncwu34wlcj92CHN3AlWgUkUgEsiyz7AmHw79YgyiKGI1GIPcf3IOyq6BarUJRFGoXjysVlMtllIpF5PN5ZLNZZDKZ33h3p3K5HNLpNCaTCcjX4y84+U5/cT6H4zhw3QXcxQKLc/JmPcQw6SLbW+See8mf/AAU56AKrw7F/gAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;build success 1&quot;
+        title=&quot;build success 1&quot;
+        src=&quot;/static/143837c05c91c7336342b5956a0fd92e/b9e4f/build_success_1.png&quot;
+        srcset=&quot;/static/143837c05c91c7336342b5956a0fd92e/cf440/build_success_1.png 148w,
+/static/143837c05c91c7336342b5956a0fd92e/d2d38/build_success_1.png 295w,
+/static/143837c05c91c7336342b5956a0fd92e/b9e4f/build_success_1.png 590w,
+/static/143837c05c91c7336342b5956a0fd92e/f9b6a/build_success_1.png 885w,
+/static/143837c05c91c7336342b5956a0fd92e/2d849/build_success_1.png 1180w,
+/static/143837c05c91c7336342b5956a0fd92e/bc80b/build_success_1.png 2550w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 32.00953137410643%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAYAAADDl76dAAAACXBIWXMAABYlAAAWJQFJUiTwAAAA2UlEQVQY052MTW7CQAyF5zC0ELpAdMGZaEOFijgOC5LQNOUWAcohys+eDUKVmh/N2K+eCaq6QIrA0jd+Hj8/NYofMU568EMP/WkDg7CN56Ap+s7NL9EDhrMOBlEbT9N79Cce/EAIW+Kt+vCtg9e467Ra7z+w2EQV2xns/LlLnLZ/q+071rs5ltLTL+s583cTId2EDqsVaoq1PARkOYE0aksCGcQGRtyXsLv/XPIwW1/lVd8/RxRlASJyMPNVEDFOmUFWaJRlCXXKDhKYQ2t9U6BFS6iRW2MMfgGkeKpXT2jWVwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;build success 2&quot;
+        title=&quot;build success 2&quot;
+        src=&quot;/static/7e5e3cc7978a96826cb34de92d493e32/b9e4f/build_success_2.png&quot;
+        srcset=&quot;/static/7e5e3cc7978a96826cb34de92d493e32/cf440/build_success_2.png 148w,
+/static/7e5e3cc7978a96826cb34de92d493e32/d2d38/build_success_2.png 295w,
+/static/7e5e3cc7978a96826cb34de92d493e32/b9e4f/build_success_2.png 590w,
+/static/7e5e3cc7978a96826cb34de92d493e32/f9b6a/build_success_2.png 885w,
+/static/7e5e3cc7978a96826cb34de92d493e32/2d849/build_success_2.png 1180w,
+/static/7e5e3cc7978a96826cb34de92d493e32/29c43/build_success_2.png 2518w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;설정 후 blue ocesen을 통해 빌드가 처리되는 것을 볼 수 있다.&lt;/p&gt;
+&lt;p&gt;아직 부족한 점이 많아서 삽질을 많이 했고 블로그가 보강할게 많은 것 같다.&lt;/p&gt;
+&lt;h3 id=&quot;참고&quot;&gt;&lt;a href=&quot;#%EC%B0%B8%EA%B3%A0&quot; aria-label=&quot;참고 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;참고&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://jootc.com/p/201905122827&quot;&gt;make git ssh key&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://jenkins.io/doc/tutorials/build-a-node-js-and-react-app-with-npm/#on-macos-and-linux&quot;&gt;jenkins build-a-node-js-and-react-app-with-npm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Git Page+Docker+Jenkins]]></title><description><![CDATA[Video Label 블로그 만들기(1) Goal Why Gatsby? Setup Git page Install Docker Installing Jenkins with Docker and Jenkins Run Make a Docker image Why…]]></description><link>http://kkyeongin.github.io/DevOps/git-page-+-gastby-+-jenkins를-활용하여-blog-만들기/</link><guid isPermaLink="false">http://kkyeongin.github.io/DevOps/git-page-+-gastby-+-jenkins를-활용하여-blog-만들기/</guid><pubDate>Tue, 12 Feb 2019 19:11:05 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://youtu.be/2MsN8gpT6jY?t=0s&quot;&gt;&lt;img src=&quot;http://img.youtube.com/vi/2MsN8gpT6jY/0.jpg&quot; alt=&quot;Video Label&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;블로그-만들기1&quot;&gt;&lt;a href=&quot;#%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B01&quot; aria-label=&quot;블로그 만들기1 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;블로그 만들기(1)&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -716,7 +809,7 @@ Singleton&lt;span class=&quot;token operator&quot;&gt;*&lt;/span&gt; Singleton&l
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&quot;why-gatsby&quot;&gt;&lt;a href=&quot;#why-gatsby&quot; aria-label=&quot;why gatsby permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Why Gatsby&lt;/h3&gt;
-&lt;p&gt;이전에 몇번 git blog를 만들어 보려 hexo 를 사용했었다.&lt;/p&gt;
+&lt;p&gt;이전에 몇번 git blog를 만들어 보려 hexo를 사용했었다.&lt;/p&gt;
 &lt;p&gt;Gatsby는 Static Site Generator 이다.
 Jekyll &amp;#x26; Hexo 또한 같은 정적 사이트 생성기이며 처음에는 Hexo를 이용해서 블로그를 만들었었다.
 Jekyll 은 Ruby on Rails 기반이며, Hexo는 Node.js기반이여서 나는 고치기 쉬울것 같은 Hexo를 선택해서 사용하였다.
@@ -767,9 +860,10 @@ $ sudo apt-get install docker-ce   # Docker CE (Community Edition)&lt;/code&gt;&
 &lt;p&gt;도커를 깔았으면 Docker hub에 있는 Jenkins image를 받는다.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://subicura.com/assets/article_images/2017-01-19-docker-guide-for-beginners-1/image-url.png&quot; alt=&quot;Docker image url&quot;&gt;&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;$ docker pull jenkins/jenkins&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;b&gt;주의할점&lt;/b&gt;은 jenkinsci 와 jenkins:latest등 다른 이미지들은 deprecated 됐다. 삽질하지 말고 jenkins/jenkins를 받자.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!NOTE]
+&lt;b&gt;주의할점&lt;/b&gt;은 jenkinsci 와 jenkins:latest등 다른 이미지들은 deprecated 됐다. 삽질하지 말고 jenkins/jenkins를 받자.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;$ docker pull jenkins/jenkins&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;jenkins을 실행시키려면 Docker run!&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;$ docker run -it\
@@ -782,8 +876,7 @@ jenkins/jenkins&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h3 id=&quot;4-make-a-docker-image&quot;&gt;&lt;a href=&quot;#4-make-a-docker-image&quot; aria-label=&quot;4 make a docker image permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;4. Make a Docker image&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;https://docs.docker.com/v17.09/engine/userguide/storagedriver/images/container-layers.jpg&quot; alt=&quot;create docker image&quot;&gt;&lt;/p&gt;
 &lt;p&gt;도커 이미지는 컨테이너를 실행하기 위한 모든 정보를 가지고 있기 때문에 보통 용량이 수백메가MB에 이릅니다. 처음 이미지를 다운받을 땐 크게 부담이 안되지만 기존 이미지에 파일 하나 추가했다고 수백메가를 다시 다운받는다면 매우 비효율적일 수 밖에 없다.&lt;/p&gt;
-&lt;p&gt;도커는 이런 문제를 해결하기 위해 레이어(layer)라는 개념을 사용하고 유니온 파일 시스템을 이용하여 여러개의 레이어를 하나의 파일시스템으로 사용할 수 있게 했다.
-&lt;code class=&quot;language-text&quot;&gt;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;도커는 이런 문제를 해결하기 위해 레이어(layer)라는 개념을 사용하고 유니온 파일 시스템을 이용하여 여러개의 레이어를 하나의 파일시스템으로 사용할 수 있게 했다.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;vim&quot;&gt;&lt;pre class=&quot;language-vim&quot;&gt;&lt;code class=&quot;language-vim&quot;&gt;FROM ubuntu&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;16.04&lt;/span&gt;
 USER root
 
